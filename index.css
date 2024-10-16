@@ -1,0 +1,36 @@
+body {
+    background: url(./74d76b0f5c2c279375e2940be16f1e85.jpg);
+    text-align: center;
+}
+#da {
+    background-color: aquamarine;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    float: left;
+    margin: 9%;
+}
+#hou {
+    background-color: aquamarine;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    float: left;
+    margin: 9%;
+}
+#minut {
+    background-color: aquamarine;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    float: left;
+    margin: 9%;
+}
+#secon {
+    background-color: aquamarine;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    float: left;
+    margin: 9%;
+}
